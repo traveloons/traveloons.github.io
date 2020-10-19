@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Vasudaivakutumbakam</title>
-    <link>https://blog.hoatz.in/authors/</link>
-    <description>Recent content in Authors on Vasudaivakutumbakam</description>
+    <title>Authors on DARKMATTER</title>
+    <link>https://darkmatter.hoatz.in/authors/</link>
+    <description>Recent content in Authors on DARKMATTER</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.hoatz.in/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 10:32:42 +0530</lastBuildDate><atom:link href="https://darkmatter.hoatz.in/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://blog.hoatz.in/authors/sharada-ganesh/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Ratheesh Pisharody</title>
+      <link>https://darkmatter.hoatz.in/authors/ratheesh-pisharody/</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
       
-      <guid>https://blog.hoatz.in/authors/sharada-ganesh/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.hoatz.in/authors/hugo-authors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.hoatz.in/authors/hugo-authors/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.hoatz.in/authors/jane-smith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.hoatz.in/authors/jane-smith/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.hoatz.in/authors/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.hoatz.in/authors/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu.</description>
+      <guid>https://darkmatter.hoatz.in/authors/ratheesh-pisharody/</guid>
+      <description></description>
     </item>
     
   </channel>

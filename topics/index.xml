@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on DARKMATTER</title>
+    <link>https://darkmatter.hoatz.in/topics/</link>
+    <description>Recent content in Topics on DARKMATTER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 10:32:42 +0530</lastBuildDate><atom:link href="https://darkmatter.hoatz.in/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capitalism</title>
+      <link>https://darkmatter.hoatz.in/topics/capitalism/</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/capitalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumerism</title>
+      <link>https://darkmatter.hoatz.in/topics/consumerism/</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/consumerism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar</title>
+      <link>https://darkmatter.hoatz.in/topics/solar/</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/solar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gandhi</title>
+      <link>https://darkmatter.hoatz.in/topics/gandhi/</link>
+      <pubDate>Sat, 10 Aug 2019 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/gandhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kumarappa</title>
+      <link>https://darkmatter.hoatz.in/topics/kumarappa/</link>
+      <pubDate>Sat, 10 Aug 2019 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/kumarappa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Economy</title>
+      <link>https://darkmatter.hoatz.in/topics/local-economy/</link>
+      <pubDate>Sat, 10 Aug 2019 10:32:42 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/local-economy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
