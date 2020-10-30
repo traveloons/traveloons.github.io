@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artist on DARKMATTER</title>
+    <link>https://darkmatter.hoatz.in/topics/artist/</link>
+    <description>Recent content in Artist on DARKMATTER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 10:10:10 +0530</lastBuildDate><atom:link href="https://darkmatter.hoatz.in/topics/artist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where is art?</title>
+      <link>https://darkmatter.hoatz.in/where-is-art/</link>
+      <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/where-is-art/</guid>
+      <description>In search of perfection Be it, Sachin Tendulkar’s straight drive, a successful heart surgery, a persuasive speech by a politician, a few lines of software code, a synchronized and reliable urban-commute or the diligence with which our plumber installed a wash basin, comparison of things or events commonly-accepted as “non art” to “art” is commonplace. We hear (and utter) the phrase “Oh, that was art!” when a job is exceptionally well executed.</description>
+    </item>
+    
+  </channel>
+</rss>
