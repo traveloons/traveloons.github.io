@@ -2,6 +2,17 @@
 @font-face {  font-family: "Old Standard TT";  font-style: italic; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Italic.ttf'); }
 @font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:700 ; src: url('../fonts/old-standard-tt/OldStandardTT-Bold.ttf'); }
 
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:300 ; src: url('../fonts/zilla-slab/ZillaSlab-Light.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:300 ; src: url('../fonts/zilla-slab/ZillaSlab-LightItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:400 ; src: url('../fonts/zilla-slab/ZillaSlab-Regular.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:400 ; src: url('../fonts/zilla-slab/ZillaSlab-Italic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:500 ; src: url('../fonts/zilla-slab/ZillaSlab-Medium.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:500 ; src: url('../fonts/zilla-slab/ZillaSlab-MediumItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:600 ; src: url('../fonts/zilla-slab/ZillaSlab-SemiBold.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:600 ; src: url('../fonts/zilla-slab/ZillaSlab-SemiBoldItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:700 ; src: url('../fonts/zilla-slab/ZillaSlab-Bold.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:700 ; src: url('../fonts/zilla-slab/ZillaSlab-BoldItalic.ttf'); }
+
 html {
 	scroll-behavior: smooth;
 }
@@ -44,9 +55,9 @@ html {
 	}
 }
 
-.unused {
-	font-family: "Old Standard TT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-	font-weight: 400 !important;
+body {
+	font-family: "Zilla Slab", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 300 !important;
 	-moz-osx-font-smoothing: grayscale !important;
 	-webkit-font-smoothing: antialiased !important;
 	-moz-font-smoothing: antialiased !important;
