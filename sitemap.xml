@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://darkmatter.hoatz.in/authors/</loc>
+    <loc>https://darkmatter.hoatz.in/authors.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/camping/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/camping.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/coronavirus/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/coronavirus.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
@@ -23,382 +23,437 @@
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/learning/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/learning.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/lockdown/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/lockdown.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/pubtypes/non-fiction/</loc>
+    <loc>https://darkmatter.hoatz.in/matter.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/pubtypes/</loc>
+    <loc>https://darkmatter.hoatz.in/pubtypes/non-fiction.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/authors/sharada-ganesh/</loc>
+    <loc>https://darkmatter.hoatz.in/pubtypes.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/</loc>
+    <loc>https://darkmatter.hoatz.in/authors/sharada-ganesh.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/travel/</loc>
+    <loc>https://darkmatter.hoatz.in/topics.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/what-travel-taught-me/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/travel.html</loc>
     <lastmod>2020-08-10T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/going-local/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/what-travel-taught-me.html</loc>
+    <lastmod>2020-08-10T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/matter/going-local.html</loc>
     <lastmod>2020-06-29T10:32:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/gandhi/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/gandhi.html</loc>
     <lastmod>2020-06-29T10:32:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/kumarappa/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/kumarappa.html</loc>
     <lastmod>2020-06-29T10:32:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/local-economy/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/local-economy.html</loc>
     <lastmod>2020-06-29T10:32:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/authors/ratheesh-pisharody/</loc>
+    <loc>https://darkmatter.hoatz.in/authors/ratheesh-pisharody.html</loc>
     <lastmod>2020-06-29T10:32:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/capitalism/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/conflict.html</loc>
+    <lastmod>2020-06-10T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/development.html</loc>
+    <lastmod>2020-06-10T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/matter/development-derailed.html</loc>
+    <lastmod>2020-06-10T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/environment.html</loc>
+    <lastmod>2020-06-10T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/bengaluru.html</loc>
+    <lastmod>2020-05-09T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/covid-19.html</loc>
+    <lastmod>2020-05-09T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/matter/covid-19-and-technocratic-societies.html</loc>
+    <lastmod>2020-05-09T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/systemic-violence.html</loc>
+    <lastmod>2020-05-09T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/capitalism.html</loc>
     <lastmod>2020-03-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/consumerism/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/consumerism.html</loc>
     <lastmod>2020-03-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/solar/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/solar.html</loc>
     <lastmod>2020-03-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/the-electric-car/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/the-electric-car.html</loc>
     <lastmod>2020-03-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/fight/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/economy.html</loc>
+    <lastmod>2020-02-05T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/matter/remembering-kumarappa.html</loc>
+    <lastmod>2020-02-05T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/village-industry.html</loc>
+    <lastmod>2020-02-05T10:10:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkmatter.hoatz.in/topics/fight.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/friends/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/friends.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/justice/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/justice.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/life/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/life.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/privileged-soul/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/privileged-soul.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/privilege/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/privilege.html</loc>
     <lastmod>2020-01-08T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/caa/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/caa.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/government/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/government.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/india/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/india.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/protest/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/protest.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/classification-of-protests/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/classification-of-protests.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/violence/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/violence.html</loc>
     <lastmod>2019-12-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/animal-rights/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/animal-rights.html</loc>
     <lastmod>2019-10-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/climate-change/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/climate-change.html</loc>
     <lastmod>2019-10-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/climate-justice-incomplete/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/climate-justice-incomplete.html</loc>
     <lastmod>2019-10-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/environment/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/veganism.html</loc>
     <lastmod>2019-10-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/veganism/</loc>
-    <lastmod>2019-10-18T10:10:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://darkmatter.hoatz.in/faith-in-capitalism/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/faith-in-capitalism.html</loc>
     <lastmod>2019-05-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/alternative/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/alternative.html</loc>
     <lastmod>2019-05-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/injustice/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/injustice.html</loc>
     <lastmod>2019-05-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/politics/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/politics.html</loc>
     <lastmod>2019-05-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/right-wing/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/right-wing.html</loc>
     <lastmod>2019-05-27T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/dharma/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/dharma.html</loc>
     <lastmod>2019-03-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/ethics/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/ethics.html</loc>
     <lastmod>2019-03-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/pubtypes/fiction/</loc>
+    <loc>https://darkmatter.hoatz.in/pubtypes/fiction.html</loc>
     <lastmod>2019-03-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/humanity/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/humanity.html</loc>
     <lastmod>2019-03-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/show-and-tell/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/show-and-tell.html</loc>
     <lastmod>2019-03-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/nonviolence/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/nonviolence.html</loc>
     <lastmod>2019-03-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/price-of-war/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/price-of-war.html</loc>
     <lastmod>2019-03-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/war/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/war.html</loc>
     <lastmod>2019-03-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/art/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/art.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/artist/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/artist.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/economics/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/economics.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/identity/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/identity.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/quality/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/quality.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/where-is-art/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/where-is-art.html</loc>
     <lastmod>2019-01-16T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/culture/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/culture.html</loc>
     <lastmod>2018-11-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/diwali/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/diwali.html</loc>
     <lastmod>2018-11-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/greenwashing-deepavali/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/greenwashing-deepavali.html</loc>
     <lastmod>2018-11-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/pollution/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/pollution.html</loc>
     <lastmod>2018-11-03T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/dissent/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/dissent.html</loc>
     <lastmod>2018-10-29T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/fear/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/fear.html</loc>
     <lastmod>2018-10-29T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/given-up-already/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/given-up-already.html</loc>
     <lastmod>2018-10-29T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/solidarity/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/solidarity.html</loc>
     <lastmod>2018-10-29T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/chased-by-tiger/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/chased-by-tiger.html</loc>
     <lastmod>2018-10-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/energy/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/energy.html</loc>
     <lastmod>2018-10-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/globalization/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/globalization.html</loc>
     <lastmod>2018-10-11T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/democracy/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/democracy.html</loc>
     <lastmod>2018-08-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/dont-shoot-the-messenger/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/dont-shoot-the-messenger.html</loc>
     <lastmod>2018-08-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/elections/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/elections.html</loc>
     <lastmod>2018-08-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/intolerance/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/intolerance.html</loc>
     <lastmod>2018-08-18T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/animals/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/animals.html</loc>
     <lastmod>2018-06-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/displacement/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/displacement.html</loc>
     <lastmod>2018-06-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/nowhere-left-to-run/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/nowhere-left-to-run.html</loc>
     <lastmod>2018-06-30T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/community/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/community.html</loc>
     <lastmod>2018-05-24T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/middle-class/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/middle-class.html</loc>
     <lastmod>2018-05-24T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/topics/philosophy/</loc>
+    <loc>https://darkmatter.hoatz.in/topics/philosophy.html</loc>
     <lastmod>2018-05-24T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/the-enemy-stares/</loc>
+    <loc>https://darkmatter.hoatz.in/matter/the-enemy-stares.html</loc>
     <lastmod>2018-05-24T10:10:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://darkmatter.hoatz.in/index.html</loc>
+    <loc>https://darkmatter.hoatz.in/.html</loc>
   </url>
   
 </urlset>

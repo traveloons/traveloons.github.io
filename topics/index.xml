@@ -2,503 +2,566 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on DARKMATTER</title>
-    <link>https://darkmatter.hoatz.in/topics/</link>
+    <link>https://darkmatter.hoatz.in/topics.html</link>
     <description>Recent content in Topics on DARKMATTER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 10:10:10 +0530</lastBuildDate><atom:link href="https://darkmatter.hoatz.in/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camping</title>
-      <link>https://darkmatter.hoatz.in/topics/camping/</link>
+      <link>https://darkmatter.hoatz.in/topics/camping.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/camping/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/camping.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coronavirus</title>
-      <link>https://darkmatter.hoatz.in/topics/coronavirus/</link>
+      <link>https://darkmatter.hoatz.in/topics/coronavirus.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/coronavirus/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/coronavirus.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>https://darkmatter.hoatz.in/topics/learning/</link>
+      <link>https://darkmatter.hoatz.in/topics/learning.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/learning/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/learning.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lockdown</title>
-      <link>https://darkmatter.hoatz.in/topics/lockdown/</link>
+      <link>https://darkmatter.hoatz.in/topics/lockdown.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/lockdown/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/lockdown.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://darkmatter.hoatz.in/topics/travel/</link>
+      <link>https://darkmatter.hoatz.in/topics/travel.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/travel/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/travel.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gandhi</title>
-      <link>https://darkmatter.hoatz.in/topics/gandhi/</link>
+      <link>https://darkmatter.hoatz.in/topics/gandhi.html</link>
       <pubDate>Mon, 29 Jun 2020 10:32:42 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/gandhi/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/gandhi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kumarappa</title>
-      <link>https://darkmatter.hoatz.in/topics/kumarappa/</link>
+      <link>https://darkmatter.hoatz.in/topics/kumarappa.html</link>
       <pubDate>Mon, 29 Jun 2020 10:32:42 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/kumarappa/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/kumarappa.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Economy</title>
-      <link>https://darkmatter.hoatz.in/topics/local-economy/</link>
+      <link>https://darkmatter.hoatz.in/topics/local-economy.html</link>
       <pubDate>Mon, 29 Jun 2020 10:32:42 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/local-economy/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/local-economy.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Capitalism</title>
-      <link>https://darkmatter.hoatz.in/topics/capitalism/</link>
-      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
+      <title>Conflict</title>
+      <link>https://darkmatter.hoatz.in/topics/conflict.html</link>
+      <pubDate>Wed, 10 Jun 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/capitalism/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/conflict.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Consumerism</title>
-      <link>https://darkmatter.hoatz.in/topics/consumerism/</link>
-      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
+      <title>Development</title>
+      <link>https://darkmatter.hoatz.in/topics/development.html</link>
+      <pubDate>Wed, 10 Jun 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/consumerism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solar</title>
-      <link>https://darkmatter.hoatz.in/topics/solar/</link>
-      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/solar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fight</title>
-      <link>https://darkmatter.hoatz.in/topics/fight/</link>
-      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/fight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Friends</title>
-      <link>https://darkmatter.hoatz.in/topics/friends/</link>
-      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/friends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Justice</title>
-      <link>https://darkmatter.hoatz.in/topics/justice/</link>
-      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/justice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://darkmatter.hoatz.in/topics/life/</link>
-      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privilege</title>
-      <link>https://darkmatter.hoatz.in/topics/privilege/</link>
-      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/privilege/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAA</title>
-      <link>https://darkmatter.hoatz.in/topics/caa/</link>
-      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/caa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Government</title>
-      <link>https://darkmatter.hoatz.in/topics/government/</link>
-      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>https://darkmatter.hoatz.in/topics/india/</link>
-      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protest</title>
-      <link>https://darkmatter.hoatz.in/topics/protest/</link>
-      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/protest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Violence</title>
-      <link>https://darkmatter.hoatz.in/topics/violence/</link>
-      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animal Rights</title>
-      <link>https://darkmatter.hoatz.in/topics/animal-rights/</link>
-      <pubDate>Fri, 18 Oct 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/animal-rights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate Change</title>
-      <link>https://darkmatter.hoatz.in/topics/climate-change/</link>
-      <pubDate>Fri, 18 Oct 2019 10:10:10 +0530</pubDate>
-      
-      <guid>https://darkmatter.hoatz.in/topics/climate-change/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/development.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environment</title>
-      <link>https://darkmatter.hoatz.in/topics/environment/</link>
+      <link>https://darkmatter.hoatz.in/topics/environment.html</link>
+      <pubDate>Wed, 10 Jun 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/environment.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bengaluru</title>
+      <link>https://darkmatter.hoatz.in/topics/bengaluru.html</link>
+      <pubDate>Sat, 09 May 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/bengaluru.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19</title>
+      <link>https://darkmatter.hoatz.in/topics/covid-19.html</link>
+      <pubDate>Sat, 09 May 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/covid-19.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Violence</title>
+      <link>https://darkmatter.hoatz.in/topics/systemic-violence.html</link>
+      <pubDate>Sat, 09 May 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/systemic-violence.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitalism</title>
+      <link>https://darkmatter.hoatz.in/topics/capitalism.html</link>
+      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/capitalism.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumerism</title>
+      <link>https://darkmatter.hoatz.in/topics/consumerism.html</link>
+      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/consumerism.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar</title>
+      <link>https://darkmatter.hoatz.in/topics/solar.html</link>
+      <pubDate>Mon, 30 Mar 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/solar.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>https://darkmatter.hoatz.in/topics/economy.html</link>
+      <pubDate>Wed, 05 Feb 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/economy.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Village Industry</title>
+      <link>https://darkmatter.hoatz.in/topics/village-industry.html</link>
+      <pubDate>Wed, 05 Feb 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/village-industry.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fight</title>
+      <link>https://darkmatter.hoatz.in/topics/fight.html</link>
+      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/fight.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://darkmatter.hoatz.in/topics/friends.html</link>
+      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/friends.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justice</title>
+      <link>https://darkmatter.hoatz.in/topics/justice.html</link>
+      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/justice.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://darkmatter.hoatz.in/topics/life.html</link>
+      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/life.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privilege</title>
+      <link>https://darkmatter.hoatz.in/topics/privilege.html</link>
+      <pubDate>Wed, 08 Jan 2020 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/privilege.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAA</title>
+      <link>https://darkmatter.hoatz.in/topics/caa.html</link>
+      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/caa.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>https://darkmatter.hoatz.in/topics/government.html</link>
+      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/government.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://darkmatter.hoatz.in/topics/india.html</link>
+      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/india.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protest</title>
+      <link>https://darkmatter.hoatz.in/topics/protest.html</link>
+      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/protest.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violence</title>
+      <link>https://darkmatter.hoatz.in/topics/violence.html</link>
+      <pubDate>Fri, 27 Dec 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/violence.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animal Rights</title>
+      <link>https://darkmatter.hoatz.in/topics/animal-rights.html</link>
       <pubDate>Fri, 18 Oct 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/environment/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/animal-rights.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://darkmatter.hoatz.in/topics/climate-change.html</link>
+      <pubDate>Fri, 18 Oct 2019 10:10:10 +0530</pubDate>
+      
+      <guid>https://darkmatter.hoatz.in/topics/climate-change.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veganism</title>
-      <link>https://darkmatter.hoatz.in/topics/veganism/</link>
+      <link>https://darkmatter.hoatz.in/topics/veganism.html</link>
       <pubDate>Fri, 18 Oct 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/veganism/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/veganism.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternative</title>
-      <link>https://darkmatter.hoatz.in/topics/alternative/</link>
+      <link>https://darkmatter.hoatz.in/topics/alternative.html</link>
       <pubDate>Mon, 27 May 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/alternative/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/alternative.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injustice</title>
-      <link>https://darkmatter.hoatz.in/topics/injustice/</link>
+      <link>https://darkmatter.hoatz.in/topics/injustice.html</link>
       <pubDate>Mon, 27 May 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/injustice/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/injustice.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politics</title>
-      <link>https://darkmatter.hoatz.in/topics/politics/</link>
+      <link>https://darkmatter.hoatz.in/topics/politics.html</link>
       <pubDate>Mon, 27 May 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/politics/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/politics.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Right Wing</title>
-      <link>https://darkmatter.hoatz.in/topics/right-wing/</link>
+      <link>https://darkmatter.hoatz.in/topics/right-wing.html</link>
       <pubDate>Mon, 27 May 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/right-wing/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/right-wing.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dharma</title>
-      <link>https://darkmatter.hoatz.in/topics/dharma/</link>
+      <link>https://darkmatter.hoatz.in/topics/dharma.html</link>
       <pubDate>Mon, 11 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/dharma/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/dharma.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethics</title>
-      <link>https://darkmatter.hoatz.in/topics/ethics/</link>
+      <link>https://darkmatter.hoatz.in/topics/ethics.html</link>
       <pubDate>Mon, 11 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/ethics/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/ethics.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Humanity</title>
-      <link>https://darkmatter.hoatz.in/topics/humanity/</link>
+      <link>https://darkmatter.hoatz.in/topics/humanity.html</link>
       <pubDate>Mon, 11 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/humanity/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/humanity.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonviolence</title>
-      <link>https://darkmatter.hoatz.in/topics/nonviolence/</link>
+      <link>https://darkmatter.hoatz.in/topics/nonviolence.html</link>
       <pubDate>Sun, 03 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/nonviolence/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/nonviolence.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>War</title>
-      <link>https://darkmatter.hoatz.in/topics/war/</link>
+      <link>https://darkmatter.hoatz.in/topics/war.html</link>
       <pubDate>Sun, 03 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/war/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/war.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>https://darkmatter.hoatz.in/topics/art/</link>
+      <link>https://darkmatter.hoatz.in/topics/art.html</link>
       <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/art/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/art.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artist</title>
-      <link>https://darkmatter.hoatz.in/topics/artist/</link>
+      <link>https://darkmatter.hoatz.in/topics/artist.html</link>
       <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/artist/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/artist.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economics</title>
-      <link>https://darkmatter.hoatz.in/topics/economics/</link>
+      <link>https://darkmatter.hoatz.in/topics/economics.html</link>
       <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/economics/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/economics.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identity</title>
-      <link>https://darkmatter.hoatz.in/topics/identity/</link>
+      <link>https://darkmatter.hoatz.in/topics/identity.html</link>
       <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/identity/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/identity.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality</title>
-      <link>https://darkmatter.hoatz.in/topics/quality/</link>
+      <link>https://darkmatter.hoatz.in/topics/quality.html</link>
       <pubDate>Wed, 16 Jan 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/quality/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/quality.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://darkmatter.hoatz.in/topics/culture/</link>
+      <link>https://darkmatter.hoatz.in/topics/culture.html</link>
       <pubDate>Sat, 03 Nov 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/culture/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/culture.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diwali</title>
-      <link>https://darkmatter.hoatz.in/topics/diwali/</link>
+      <link>https://darkmatter.hoatz.in/topics/diwali.html</link>
       <pubDate>Sat, 03 Nov 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/diwali/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/diwali.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pollution</title>
-      <link>https://darkmatter.hoatz.in/topics/pollution/</link>
+      <link>https://darkmatter.hoatz.in/topics/pollution.html</link>
       <pubDate>Sat, 03 Nov 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/pollution/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/pollution.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dissent</title>
-      <link>https://darkmatter.hoatz.in/topics/dissent/</link>
+      <link>https://darkmatter.hoatz.in/topics/dissent.html</link>
       <pubDate>Mon, 29 Oct 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/dissent/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/dissent.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fear</title>
-      <link>https://darkmatter.hoatz.in/topics/fear/</link>
+      <link>https://darkmatter.hoatz.in/topics/fear.html</link>
       <pubDate>Mon, 29 Oct 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/fear/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/fear.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solidarity</title>
-      <link>https://darkmatter.hoatz.in/topics/solidarity/</link>
+      <link>https://darkmatter.hoatz.in/topics/solidarity.html</link>
       <pubDate>Mon, 29 Oct 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/solidarity/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/solidarity.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy</title>
-      <link>https://darkmatter.hoatz.in/topics/energy/</link>
+      <link>https://darkmatter.hoatz.in/topics/energy.html</link>
       <pubDate>Thu, 11 Oct 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/energy/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/energy.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalization</title>
-      <link>https://darkmatter.hoatz.in/topics/globalization/</link>
+      <link>https://darkmatter.hoatz.in/topics/globalization.html</link>
       <pubDate>Thu, 11 Oct 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/globalization/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/globalization.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Democracy</title>
-      <link>https://darkmatter.hoatz.in/topics/democracy/</link>
+      <link>https://darkmatter.hoatz.in/topics/democracy.html</link>
       <pubDate>Sat, 18 Aug 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/democracy/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/democracy.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elections</title>
-      <link>https://darkmatter.hoatz.in/topics/elections/</link>
+      <link>https://darkmatter.hoatz.in/topics/elections.html</link>
       <pubDate>Sat, 18 Aug 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/elections/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/elections.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intolerance</title>
-      <link>https://darkmatter.hoatz.in/topics/intolerance/</link>
+      <link>https://darkmatter.hoatz.in/topics/intolerance.html</link>
       <pubDate>Sat, 18 Aug 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/intolerance/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/intolerance.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animals</title>
-      <link>https://darkmatter.hoatz.in/topics/animals/</link>
+      <link>https://darkmatter.hoatz.in/topics/animals.html</link>
       <pubDate>Sat, 30 Jun 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/animals/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/animals.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Displacement</title>
-      <link>https://darkmatter.hoatz.in/topics/displacement/</link>
+      <link>https://darkmatter.hoatz.in/topics/displacement.html</link>
       <pubDate>Sat, 30 Jun 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/displacement/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/displacement.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>https://darkmatter.hoatz.in/topics/community/</link>
+      <link>https://darkmatter.hoatz.in/topics/community.html</link>
       <pubDate>Thu, 24 May 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/community/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/community.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Middle Class</title>
-      <link>https://darkmatter.hoatz.in/topics/middle-class/</link>
+      <link>https://darkmatter.hoatz.in/topics/middle-class.html</link>
       <pubDate>Thu, 24 May 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/middle-class/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/middle-class.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://darkmatter.hoatz.in/topics/philosophy/</link>
+      <link>https://darkmatter.hoatz.in/topics/philosophy.html</link>
       <pubDate>Thu, 24 May 2018 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/topics/philosophy/</guid>
+      <guid>https://darkmatter.hoatz.in/topics/philosophy.html</guid>
       <description></description>
     </item>
     

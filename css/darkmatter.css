@@ -1,0 +1,70 @@
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Regular.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: italic; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Italic.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:700 ; src: url('../fonts/old-standard-tt/OldStandardTT-Bold.ttf'); }
+
+html {
+	scroll-behavior: smooth;
+}
+
+.section {
+	overflow-x: hidden !important;
+}
+
+html {
+	font-size: 18px !important;
+}
+
+@media screen and (max-width: 1200px) {
+	html {
+		font-size: 17px !important;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	html {
+		font-size: 16px !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	html {
+		font-size: 15px !important;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	html {
+		font-size: 14px !important;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	html {
+		font-size: 13px !important;
+	}
+}
+
+.unused {
+	font-family: "Old Standard TT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 400 !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-font-smoothing: antialiased !important;
+	text-rendering: optimizelegibility !important;    
+}
+
+.dm-border-top-danger-dark { 
+	border-top-color: #CC0F35 !important;
+	border-top-width: 3px !important;
+	border-top-style: solid !important;
+	border-top: $width 3px solid !important;
+}
+
+.dm-border-bottom-danger-dark { 
+	border-bottom-color: #CC0F35 !important;
+	border-bottom-width: 3px !important;
+	border-bottom-style: solid !important;
+	border-bottom: $width 3px solid !important;
+}
+
+

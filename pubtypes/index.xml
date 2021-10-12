@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pubtypes on DARKMATTER</title>
-    <link>https://darkmatter.hoatz.in/pubtypes/</link>
+    <link>https://darkmatter.hoatz.in/pubtypes.html</link>
     <description>Recent content in Pubtypes on DARKMATTER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 10:10:10 +0530</lastBuildDate><atom:link href="https://darkmatter.hoatz.in/pubtypes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Non Fiction</title>
-      <link>https://darkmatter.hoatz.in/pubtypes/non-fiction/</link>
+      <link>https://darkmatter.hoatz.in/pubtypes/non-fiction.html</link>
       <pubDate>Mon, 10 Aug 2020 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/pubtypes/non-fiction/</guid>
+      <guid>https://darkmatter.hoatz.in/pubtypes/non-fiction.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiction</title>
-      <link>https://darkmatter.hoatz.in/pubtypes/fiction/</link>
+      <link>https://darkmatter.hoatz.in/pubtypes/fiction.html</link>
       <pubDate>Mon, 11 Mar 2019 10:10:10 +0530</pubDate>
       
-      <guid>https://darkmatter.hoatz.in/pubtypes/fiction/</guid>
+      <guid>https://darkmatter.hoatz.in/pubtypes/fiction.html</guid>
       <description></description>
     </item>
     
