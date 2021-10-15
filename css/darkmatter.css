@@ -78,6 +78,7 @@ body {
 .dm-font-subtitle {
 	font-family: "Teko", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 	font-weight: 300 !important;
+	line-height: 50px !important;	
 }
 
 .dm-font-heading {
