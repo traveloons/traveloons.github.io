@@ -33,42 +33,42 @@ html {
 }
 
 html {
-	font-size: 20px !important;
+	font-size: 21px !important;
 }
 
 @media screen and (max-width: 1200px) {
 	html {
-		font-size: 19px !important;
+		font-size: 20px !important;
 	}
 }
 
 @media screen and (max-width: 1024px) {
 	html {
-		font-size: 18px !important;
+		font-size: 19px !important;
 	}
 }
 
 @media screen and (max-width: 768px) {
 	html {
-		font-size: 16px !important;
+		font-size: 18px !important;
 	}
 }
 
 @media screen and (max-width: 480px) {
 	html {
-		font-size: 15px !important;
+		font-size: 17px !important;
 	}
 }
 
 @media screen and (max-width: 320px) {
 	html {
-		font-size: 14px !important;
+		font-size: 16px !important;
 	}
 }
 
 body {
-	font-family: "Arvo", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-	font-weight: 400 !important;
+	font-family: "Zilla Slab", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 300 !important;
 	-moz-osx-font-smoothing: grayscale !important;
 	-webkit-font-smoothing: antialiased !important;
 	-moz-font-smoothing: antialiased !important;
@@ -82,13 +82,13 @@ body {
 
 .dm-font-subtitle {
 	font-family: "Teko", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-	font-weight: 300 !important;
+	font-weight: 500 !important;
 	line-height: 50px !important;	
 }
 
 .dm-font-heading {
-	font-family: "Arvo", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-	font-weight: 700 !important;
+	font-family: "Zilla Slab", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 500 !important;
 }
 
 .dm-font-info {
